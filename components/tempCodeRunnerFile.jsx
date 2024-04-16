@@ -1,0 +1,1 @@
+import { contractAddresses, abi } from "../constants/index"
